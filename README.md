@@ -8,7 +8,7 @@ The primary objective is to explore this dataset using various data analysis tec
 Specifically, we employ linear regression and k-nearest neighbors (KNN) regression models to predict housing prices, utilizing separate training and test datasets and make a comparison of them.
 
 # Main Methods of Data Analysis
-1. Descriptive Statistics
+<b>1. Descriptive Statistics</b>
 - Summary Statistics: Calculating measures such as mean, median, mode, standard deviation, and range to describe the central tendency and spread of the data.
 - Data Visualization: Generating visual representations, such as histograms, box plots, and scatter plots, to explore the distribution of individual features and identify any outliers or anomalies.
 3. Exploratory Analysis
