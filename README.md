@@ -32,3 +32,6 @@ Specifically, we employ linear regression and k-nearest neighbors (KNN) regressi
 - <b>Train-Test Split: </b>Dividing the dataset into training and testing sets to train the model on a subset of the data and evaluate its performance on unseen data.
 -<b>Model Evaluation:</b> Assessing the model's performance using metrics such as mean squared error (MSE), R-squared, and root mean squared error (RMSE).
 - <b>K-Nearest Neighbors (KNN) Regression: </b> Implementing a KNN regression model to predict housing prices by considering the similarity between a given data point and its k nearest neighbors in the feature space.
+
+# Conclusion
+The analysis of the Ames Housing dataset using descriptive statistics, exploratory analysis, correlation analysis, and regression modeling techniques provides valuable insights into the factors influencing housing prices in Ames, Iowa. By employing linear regression and KNN regression models, we aim to accurately predict housing prices and contribute to a better understanding of the real estate market dynamics in the region.
