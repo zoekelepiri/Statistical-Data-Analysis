@@ -11,7 +11,7 @@ Specifically, we employ linear regression and k-nearest neighbors (KNN) regressi
 <b>1. Descriptive Statistics</b>
 - <b>Summary Statistics: </b>Calculating measures such as mean, median, mode, standard deviation, and range to describe the central tendency and spread of the data.
 - <b>Data Visualization: </b>Generating visual representations, such as histograms, box plots, and scatter plots, to explore the distribution of individual features and identify any outliers or anomalies.
-<br/>
+
 <b>2. Exploratory Analysis</b>
 - <b>Feature Exploration: </b>Investigating the characteristics of individual features and their potential impact on housing prices.
 - <b>Pattern Recognition: </b>Identifying trends, patterns, and relationships within the dataset through visualizations and statistical analysis.
