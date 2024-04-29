@@ -5,7 +5,7 @@ This dataset is related to houses for sale collected from various real estate ag
 The file includes 26 variables, which are described in detail in the variable view tab.
 The aim of the research is to create a model for the sale price of the property and to find relationships between the rest of the property's characteristics. <br/>
 The primary objective is to explore this dataset using various data analysis techniques, including descriptive statistics, exploratory analysis, correlation analysis, and regression modeling. 
-Specifically, we employ linear regression and k-nearest neighbors (KNN) regression models to predict housing prices, utilizing separate training and test datasets and make a comparison of them.
+Specifically, we employ linear regression and k-nearest neighbors (KNN) regression models to predict housing prices, utilizing separate training and test datasets and make a comparison of them.<br/>
 <b>Dataset:</b> http://www.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt
 
 # Main Methods of Data Analysis
