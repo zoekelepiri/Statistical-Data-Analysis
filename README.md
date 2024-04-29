@@ -16,12 +16,12 @@ Specifically, we employ linear regression and k-nearest neighbors (KNN) regressi
 - <b>Feature Exploration: </b>Investigating the characteristics of individual features and their potential impact on housing prices.
 - <b>Pattern Recognition: </b>Identifying trends, patterns, and relationships within the dataset through visualizations and statistical analysis.
 - <b>Data Transformation:</b> Preparing the data for modeling by handling missing values, encoding categorical variables, and scaling numerical features.
-- 
+
 <b>3. Exploratory Analysis</b>
 - <b>Feature Exploration:</b> Investigating the characteristics of individual features and their potential impact on housing prices.
 - <b>Pattern Recognition:</b> Identifying trends, patterns, and relationships within the dataset through visualizations and statistical analysis.
 - <b>Data Transformation:</b> Preparing the data for modeling by handling missing values, encoding categorical variables, and scaling numerical features.
-- 
+  
 <b>4. Correlation Analysis</b>
 - <b>Correlation Coefficients:</b> Calculating correlation coefficients, such as Pearson correlation, to quantify the strength and direction of relationships between variables.
 - <b>Correlation Heatmaps: </b>Visualizing correlations among features using heatmaps to identify highly correlated variables and potential multicollinearity issues.
