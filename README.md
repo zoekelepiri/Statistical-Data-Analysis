@@ -6,6 +6,7 @@ The file includes 26 variables, which are described in detail in the variable vi
 The aim of the research is to create a model for the sale price of the property and to find relationships between the rest of the property's characteristics. <br/>
 The primary objective is to explore this dataset using various data analysis techniques, including descriptive statistics, exploratory analysis, correlation analysis, and regression modeling. 
 Specifically, we employ linear regression and k-nearest neighbors (KNN) regression models to predict housing prices, utilizing separate training and test datasets and make a comparison of them.
+<b>Dataset:</b> http://www.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt
 
 # Main Methods of Data Analysis
 <b>1. Descriptive Statistics</b>
@@ -25,7 +26,7 @@ Specifically, we employ linear regression and k-nearest neighbors (KNN) regressi
 <b>4. Correlation Analysis</b>
 - <b>Correlation Coefficients:</b> Calculating correlation coefficients, such as Pearson correlation, to quantify the strength and direction of relationships between variables.
 - <b>Correlation Heatmaps: </b>Visualizing correlations among features using heatmaps to identify highly correlated variables and potential multicollinearity issues.
-- 
+
 <b>5. Regression Modeling</b>
 - <b>Linear Regression:</b> Building a linear regression model to predict housing prices based on a set of independent variables.
 - <b>Train-Test Split: </b>Dividing the dataset into training and testing sets to train the model on a subset of the data and evaluate its performance on unseen data.
